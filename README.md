@@ -333,6 +333,7 @@ python3 product-team/landing-page-generator/scripts/landing_page_scaffolder.py c
 
 | Project | Description |
 |---------|-------------|
+| [**agent-stylebook**](https://github.com/jinhui173/agent-stylebook) | Reusable development profiles, UI preferences, and Trellis-aware workflows for Codex and Claude Code. |
 | [**Claude Code Skills & Agents Factory**](https://github.com/alirezarezvani/claude-code-skills-agents-factory) | Methodology for building skills at scale |
 | [**Claude Code Tresor**](https://github.com/alirezarezvani/claude-code-tresor) | Productivity toolkit with 60+ prompt templates |
 | [**Product Manager Skills**](https://github.com/Digidai/product-manager-skills) | Senior PM agent with 6 knowledge domains, 12 templates, 30+ frameworks — discovery, strategy, delivery, SaaS metrics, career coaching, AI product craft |
